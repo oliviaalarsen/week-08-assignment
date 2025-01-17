@@ -1,0 +1,13 @@
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5em;
+    text-align: center;
+    font-weight: underline;
+}
+
+body {
+    background-color: lightskyblue;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
